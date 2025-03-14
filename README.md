@@ -1,5 +1,8 @@
 # 2425-MDS-BTSSIO2-DOCUMENTATION
 
+A faire au minima pour les 2 projets que vous allez présenter lors de votre épreuve E6. 
+S'il vous reste du temps, élargissez aux autres projets !
+
 ## Base de données
 
 1. Faire un dictionnaire de données
