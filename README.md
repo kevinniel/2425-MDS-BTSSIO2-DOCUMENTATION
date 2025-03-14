@@ -5,9 +5,9 @@ S'il vous reste du temps, élargissez aux autres projets !
 
 ## Base de données
 
-1. Faire un dictionnaire de données
-2. Faire un MCD
-3. Faire un MLD
+1. Faire un dictionnaire de données (Excel)
+2. Faire un MCD (draw.io)
+3. Faire un MLD (fichier word)
 4. Faire un MPD (workbench)
 
 Sources (1, 2, 3) : https://ineumann.developpez.com/tutoriels/merise/initiation-merise/
