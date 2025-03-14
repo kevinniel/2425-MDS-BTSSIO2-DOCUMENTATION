@@ -10,5 +10,5 @@ S'il vous reste du temps, élargissez aux autres projets !
 3. Faire un MLD (fichier word)
 4. Faire un MPD (workbench)
 
-Sources (1, 2, 3) : https://ineumann.developpez.com/tutoriels/merise/initiation-merise/
-Sources (4) : Mysql Workbench
+- Sources (1, 2, 3) : https://ineumann.developpez.com/tutoriels/merise/initiation-merise/
+- Sources (4) : Mysql Workbench
